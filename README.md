@@ -1,7 +1,7 @@
 # Videditor
 videditor is a simple yet powerful video editing tool written in Python. It allows users to perform various video editing tasks such as cutting videos into smaller parts, extracting frames, and merging frames back into a video. This tool leverages moviepy and opencv-python libraries to handle video processing and frame manipulation.
 
-Features
+# Features
 Cut Video: Cut a video into smaller parts based on specified start and end times.
 Cut Video into Sections: Divide a video into sections of desired length.
 Extract Frames: Extract each frame of a video and save them as image files.
