@@ -21,5 +21,29 @@ This repository contains Python scripts to perform various video editing operati
 Install the required Python libraries using `pip`:
 ```sh
 pip install moviepy opencv-python
+```
+## cloning
+
+Clone the repository to your local machine and navigate into the project directory:
+
+```sh
+git clone https://github.com/yourusername/videditor.git
+cd videditor
+```
+
+## usage:
+
+```Type/copy
+py videditor.py
+```
+else
+```
+python videditor.py
+```
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request with any changes or improvements.
+
+
 
 
