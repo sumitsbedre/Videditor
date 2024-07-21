@@ -23,6 +23,3 @@ Install the required Python libraries using `pip`:
 pip install moviepy opencv-python
 
 
----
-
-This README provides a detailed overview, features, installation instructions, usage examples, and additional information for contributing and licensing. It follows the structure and style similar to the HTML template you provided.
